@@ -1,0 +1,42 @@
+﻿  test.c
+D:\Code(C语言）\stu_2025_5_10\test.c(15,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(15,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(17,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(19,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(19,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(21,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(21,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(23,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(23,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(25,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(27,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(27,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(29,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(29,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(31,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\Code(C语言）\stu_2025_5_10\test.c(33,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\Code(C语言）\stu_2025_5_10\test.c(33,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  stu_2025_5_10.vcxproj -> D:\Code(C语言）\stu_2025_5_10\x64\Debug\stu_2025_5_10.exe
