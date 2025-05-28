@@ -1,0 +1,7 @@
+﻿  test.c
+D:\Code(C语言）\stu_2025_5_25\test.c(48,2): warning C4047: “return”:“void *”与“char”的间接级别不同
+D:\Code(C语言）\stu_2025_5_25\test.c(40,7): warning C4047: “初始化”:“char”与“void *”的间接级别不同
+D:\Code(C语言）\stu_2025_5_25\test.c(87,5): error C2084: 函数“int main()”已有主体
+      D:\Code(C语言）\stu_2025_5_25\test.c(50,5):
+      参见“main”的前一个定义
+  
